@@ -13,6 +13,14 @@ Thank you.
 | Kim Hee Jae | UX / UI Designer | [notion](https://www.notion.so/Hi-I-m-Heejae-a-UX-UI-designer-abf2b44169db4877bb2ed52c10f9075b)
 | Han Se Eun | Entrepeneur | [github](https://github.com/seeys)
 
+## Team Communication Tools
+1. Slack
+2. Notion
+3. Zoom
+4. Gather Town
+5. Trello
+6. Github
+7. Figma
 ## Project
 + Track : AWS Game Tech
 + Project Name : Gamp (Game + Camp)

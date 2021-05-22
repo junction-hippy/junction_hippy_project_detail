@@ -16,7 +16,7 @@
 + Audio Connect
 + Video Connect
 
-### Others Module
+### Other Modules
 + Select Game
 + Matching Cancel
 + Search Game
