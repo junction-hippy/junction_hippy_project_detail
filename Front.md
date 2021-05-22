@@ -25,4 +25,4 @@
 + API Connect
 
 ### Flow Chart
-![Flow](https://www.notion.so/JunctionX-Seoul-2021-Hackerton-2acaae276eec48ac9419212d41db9a3c#1ba2ac8d434443b49d62e0ee8c5c13f6)
+![Flow](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d112af3-58ff-4325-bacd-63c4cc1ddd42/Flow_chart_01.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210522%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210522T192951Z&X-Amz-Expires=86400&X-Amz-Signature=18b7f6b48dcb716cae8732018e678a9f7107539750dd491abea00f4aa28dbc6e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Flow_chart_01.png%22)
