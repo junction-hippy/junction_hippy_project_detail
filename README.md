@@ -18,15 +18,16 @@ Thank you.
 + Project Name : Gamp (Game + Camp)
 + Project Descrption 
 	A service that allows teams that meet in the game to have voice chat when connected via a web browser for games that do not support team voice.
++ Project Proposal -> [Click](https://www.notion.so/What-is-Gamp-02d543129a5d4e78aac151881b7343e8)
 ## Front Function
 [Go to Front Detail](./Front.md)
 ## Back Function
 [Go to Back Detail](./Back.md)
 ## Design Layout
-
+[Go to Design Concept](./Design.md)
 ## Prototype
-
+add to web site
 ## Final Result
-
+add to vedio or ppt file
 #### More Detail is Notion Page (+Hackerton Scrum)
 [Hippy Notion Page](https://www.notion.so/JunctionX-Seoul-2021-Hackerton-2acaae276eec48ac9419212d41db9a3c)
