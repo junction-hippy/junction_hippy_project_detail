@@ -1,6 +1,6 @@
 # Welcome to Hippy Project
 Hi✨ We are **Hippy** Team.
-Our team met at JunctionX Seoul Hackerton.
+Our team met at JunctionX Seoul Hackathon.
 Thank you. 
 
 ## Team Member
@@ -23,6 +23,8 @@ Thank you.
 7. Figma
 ## Project
 + Track : AWS Game Tech
+
+![Gamp](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/091a03ed-9a52-4855-b6b3-1ec19a717a99/Group_213.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210522%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210522T225212Z&X-Amz-Expires=86400&X-Amz-Signature=b65cb91c7e10d1a3189f06423064d9fd6e3f694c2a4192cf297874a99d8b7e79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Group_213.png%22)
 + Project Name : Gamp (Game + Camp)
 + Project Descrption 
 	A service that allows teams that meet in the game to have voice chat when connected via a web browser for games that do not support team voice.
@@ -40,4 +42,4 @@ Thank you.
 ## Final Result
 add to vedio or ppt file
 #### More Detail is Notion Page (+Hackerton Scrum)
-[Hippy Notion Page](https://www.notion.so/JunctionX-Seoul-2021-Hackerton-2acaae276eec48ac9419212d41db9a3c)
+[Hippy Notion Page](https://www.notion.so/JunctionX-Seoul-2021-Hackathon-2acaae276eec48ac9419212d41db9a3c)
