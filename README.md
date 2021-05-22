@@ -14,11 +14,14 @@ Thank you.
 | Han Se Eun | Entrepeneur | [github](https://github.com/seeys)
 
 ## Project
-
++ Track : AWS Game Tech
++ Project Name : Gamp (Game + Camp)
++ Project Descrption 
+	A service that allows teams that meet in the game to have voice chat when connected via a web browser for games that do not support team voice.
 ## Front Function
-
+[Go to Front Detail](./front.md)
 ## Back Function
-
+[Go to Back Detail](./back.md)
 ## Design Layout
 
 ## Prototype
