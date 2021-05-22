@@ -15,3 +15,11 @@
 ### Device
 + Audio Connect
 + Video Connect
+
+### Others Module
++ Select Game
++ Matching Cancel
++ Search Game
++ Search Nickname
++ Chat Room Connect
++ API Connect

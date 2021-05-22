@@ -26,7 +26,9 @@ Thank you.
 ## Design Layout
 [Go to Design Concept](./Design.md)
 ## Prototype
-add to web site
+> Click this link, you can see the our project site
+
+[GAMP SITE](https://junction-hippy.github.io/junction_hippy_front/)
 ## Final Result
 add to vedio or ppt file
 #### More Detail is Notion Page (+Hackerton Scrum)
