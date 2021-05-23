@@ -1,6 +1,6 @@
 # Welcome to Hippy Project
 Hi✨ We are **Hippy** Team.
-Our team met at JunctionX Seoul Hackathon.
+Our team met at JunctionX Seoul Hackerton.
 Thank you. 
 
 ## Team Member
@@ -40,6 +40,6 @@ Thank you.
 
 [GAMP SITE](https://gamp.dnatuna.fun/)
 ## Final Result
-add to vedio or ppt file
+[Demo File](https://drive.google.com/file/d/11WF82CGwuDEZyMzU14OEqRimoCbDZZfW/view)
 #### More Detail is Notion Page (+Hackerton Scrum)
-[Hippy Notion Page](https://www.notion.so/JunctionX-Seoul-2021-Hackathon-2acaae276eec48ac9419212d41db9a3c)
+[Hippy Notion Page](https://www.notion.so/JunctionX-Seoul-2021-Hackerton-2acaae276eec48ac9419212d41db9a3c)
