@@ -38,7 +38,7 @@ Thank you.
 ## Prototype
 > Click this link, you can see the our project site
 
-[GAMP SITE](https://junction-hippy.github.io/junction_hippy_front/)
+[GAMP SITE](https://gamp.dnatuna.fun/)
 ## Final Result
 add to vedio or ppt file
 #### More Detail is Notion Page (+Hackerton Scrum)
